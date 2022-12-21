@@ -1,4 +1,4 @@
-# luontomaps
+# Luontomaps
 
 School project done as part of Web-technologies and digital media-course in Metropolia UAS. Done in spring 2022.
 
